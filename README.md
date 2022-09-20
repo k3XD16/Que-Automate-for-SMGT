@@ -26,9 +26,5 @@ while True: {
 </code></pre>
 
 
-**Try Power Automate**
-It is a open source tool build by Microsoft. It's Pre Installed in Win11 and for Win10 need to install from own [Microsoft store](https://apps.microsoft.com/store/detail/power-automate/9NFTCH6J7FHV?hl=en-us&gl=us).  
-
-
 
 
